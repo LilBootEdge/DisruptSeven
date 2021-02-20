@@ -1,0 +1,663 @@
+.mediaViewInfo {
+  --web-view-name: Cart;
+  --web-view-id: Cart;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Cart;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.Cart_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(247, 247, 247, 1);
+  overflow: hidden;
+  --web-view-name: Cart;
+  --web-view-id: Cart;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+.Payment_Class {
+  position: absolute;
+  width: 491px;
+  height: 490px;
+  left: 1296px;
+  top: 422px;
+  overflow: visible;
+}
+.Rectangle_23_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_23 {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 509px;
+  height: 508px;
+  left: 0px;
+  top: 0px;
+}
+.Rectangle_26_Class {
+  fill: rgba(15, 52, 96, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_26 {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 205px;
+  height: 61px;
+  left: 275px;
+  top: 394px;
+}
+.Total_price_Class {
+  left: 41px;
+  top: 303px;
+  position: absolute;
+  overflow: visible;
+  width: 150px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgba(22, 33, 62, 1);
+}
+.Line_9_Class {
+  fill: transparent;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_9 {
+  overflow: visible;
+  position: absolute;
+  width: 432px;
+  height: 1px;
+  left: 29.5px;
+  top: 284px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Free__Class {
+  left: 349px;
+  top: 222px;
+  position: absolute;
+  overflow: visible;
+  width: 68px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(22, 33, 62, 1);
+}
+.Delivery_cost_at_Class {
+  left: 39px;
+  top: 222px;
+  position: absolute;
+  overflow: visible;
+  width: 208px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(22, 33, 62, 1);
+}
+.Item_total_Class {
+  left: 39px;
+  top: 168px;
+  position: absolute;
+  overflow: visible;
+  width: 127px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  color: rgba(22, 33, 62, 1);
+}
+.Payment_details_Class {
+  left: 41px;
+  top: 95px;
+  position: absolute;
+  overflow: visible;
+  width: 268px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgba(22, 33, 62, 1);
+}
+.Rectangle_25_Class {
+  fill: rgba(15, 52, 96, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_25 {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 138px;
+  height: 58px;
+  left: 328px;
+  top: 36px;
+}
+.Apply_Class {
+  left: 359px;
+  top: 41px;
+  position: absolute;
+  overflow: visible;
+  width: 59px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 24px;
+  color: rgba(255, 255, 255, 1);
+}
+.Checkout__Class {
+  left: 304px;
+  top: 398px;
+  position: absolute;
+  overflow: visible;
+  width: 130px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 1);
+}
+.Rectangle_24_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_24 {
+  position: absolute;
+  overflow: visible;
+  width: 263px;
+  height: 41px;
+  left: 41px;
+  top: 35px;
+}
+.Enter_coupon_code_Class {
+  left: 79px;
+  top: 43px;
+  position: absolute;
+  overflow: visible;
+  width: 183px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 22px;
+  color: rgba(15, 52, 96, 1);
+}
+.Mi_Home_Security_Camera_Basic_Class {
+  position: absolute;
+  width: 1028px;
+  height: 294px;
+  left: 162px;
+  top: 727px;
+  overflow: visible;
+}
+.Rectangle_27_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_27 {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1034px;
+  height: 312px;
+  left: 12px;
+  top: 0px;
+}
+.dustbin_Class {
+  position: absolute;
+  width: 38px;
+  height: 37px;
+  left: 920px;
+  top: 75px;
+  overflow: visible;
+}
+.ID1799_Class {
+  left: 223px;
+  top: 211px;
+  position: absolute;
+  overflow: visible;
+  width: 97px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgba(15, 52, 96, 1);
+}
+.Minus_Class {
+  fill: rgba(15, 52, 96, 1);
+}
+.Minus {
+  overflow: visible;
+  position: absolute;
+  width: 45.082px;
+  height: 3.566px;
+  left: 306.641px;
+  top: 160.651px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.ID0_Class {
+  left: 271px;
+  top: 140px;
+  position: absolute;
+  overflow: visible;
+  width: 23px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.plus_Class {
+  fill: rgba(15, 52, 96, 1);
+}
+.plus {
+  overflow: visible;
+  position: absolute;
+  width: 34.359px;
+  height: 33.131px;
+  left: 223px;
+  top: 145.869px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Mi_Home_Security_Camera_Basic__Class {
+  filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  width: 245px;
+  height: 245px;
+  left: 0px;
+  top: 24px;
+  overflow: visible;
+}
+.Mi_Home_Security_Camera_Basic___Class {
+  left: 223px;
+  top: 70px;
+  position: absolute;
+  overflow: visible;
+  width: 650px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgba(15, 52, 96, 1);
+}
+.Mi_Home_Security_360_Class {
+  position: absolute;
+  width: 1016px;
+  height: 294px;
+  left: 174px;
+  top: 369px;
+  overflow: visible;
+}
+.Rectangle_22_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_22 {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1034px;
+  height: 312px;
+  left: 0px;
+  top: 0px;
+}
+.dustbin__Class {
+  position: absolute;
+  width: 38px;
+  height: 37px;
+  left: 908px;
+  top: 53px;
+  overflow: visible;
+}
+.ID2899_Class {
+  left: 211px;
+  top: 193px;
+  position: absolute;
+  overflow: visible;
+  width: 97px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgba(15, 52, 96, 1);
+}
+.minus_Class {
+  fill: rgba(15, 52, 96, 1);
+}
+.minus {
+  overflow: visible;
+  position: absolute;
+  width: 45.082px;
+  height: 3.566px;
+  left: 294.641px;
+  top: 143.651px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.plus_bc_Class {
+  fill: rgba(15, 52, 96, 1);
+}
+.plus_bc {
+  overflow: visible;
+  position: absolute;
+  width: 34.359px;
+  height: 33.131px;
+  left: 211px;
+  top: 128.869px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.ID0_bd_Class {
+  left: 259px;
+  top: 122px;
+  position: absolute;
+  overflow: visible;
+  width: 23px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Mi_Home_Security_Camera_360__Class {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  width: 127px;
+  height: 198px;
+  left: 32px;
+  top: 35px;
+  overflow: visible;
+}
+.Mi_Home_Security_Camera_360_10_Class {
+  left: 211px;
+  top: 53px;
+  position: absolute;
+  overflow: visible;
+  width: 631px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  color: rgba(15, 52, 96, 1);
+}
+.Your_Cart_bar_Class {
+  position: absolute;
+  width: 1574px;
+  height: 109px;
+  left: 185px;
+  top: 210px;
+  overflow: visible;
+}
+.Your_Cart_Bar_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Your_Cart_Bar {
+  filter: drop-shadow(4px 5px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1592px;
+  height: 127px;
+  left: 0px;
+  top: 0px;
+}
+.Your_cart_Class {
+  left: 367px;
+  top: 25px;
+  position: absolute;
+  overflow: visible;
+  width: 209px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 50px;
+  color: rgba(22, 33, 62, 1);
+}
+.Rectangle_19_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(15, 52, 96, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_19 {
+  position: absolute;
+  overflow: visible;
+  width: 266px;
+  height: 60px;
+  left: 950px;
+  top: 25px;
+}
+.Checkout_Class {
+  left: 996px;
+  top: 30px;
+  position: absolute;
+  overflow: visible;
+  width: 167px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 1);
+}
+.Nav_Bar_Class {
+  position: absolute;
+  width: 1873px;
+  height: 95px;
+  left: 0px;
+  top: 48px;
+  overflow: visible;
+}
+.shopping-cart_Class {
+  position: absolute;
+  width: 86px;
+  height: 66px;
+  left: 1787px;
+  top: 17px;
+  overflow: visible;
+}
+.Sign_up_Class {
+  left: 1620px;
+  top: 23px;
+  position: absolute;
+  overflow: visible;
+  width: 153px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 43px;
+  color: rgba(233, 69, 96, 1);
+}
+.Line_8_Class {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 2px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_8 {
+  overflow: visible;
+  position: absolute;
+  width: 2px;
+  height: 56px;
+  left: 1605px;
+  top: 22px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Log_in_Class {
+  left: 1468px;
+  top: 26px;
+  position: absolute;
+  overflow: visible;
+  width: 123px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 43px;
+  color: rgba(233, 69, 96, 1);
+}
+.Search_Bar_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(15, 52, 96, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Search_Bar {
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1259px;
+  height: 98px;
+  left: 184px;
+  top: 7px;
+}
+.Search_the_entire_store_here_Class {
+  left: 210px;
+  top: 26px;
+  position: absolute;
+  overflow: visible;
+  width: 447px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgba(80, 79, 79, 1);
+}
+.Mi_logo_Class {
+  position: absolute;
+  width: 181px;
+  height: 95px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.Search_Icon_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Search_Icon {
+  overflow: visible;
+  position: absolute;
+  width: 50.491px;
+  height: 50.49px;
+  left: 1346.01px;
+  top: 22.255px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+a,
+a:visited {
+  color: rgba(233, 69, 96, 1);
+  text-decoration: none;
+}
+input {
+  width: 180px;
+  height: 20px;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 18px;
+  color: rgba(15, 52, 96, 1);
+}
+*:focus {
+  outline: none;
+}
