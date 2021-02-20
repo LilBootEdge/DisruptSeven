@@ -1,0 +1,285 @@
+.mediaViewInfo {
+  --web-view-name: Log in;
+  --web-view-id: Log_in;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Log_in;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.Log_in_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  background-color: rgba(247, 247, 247, 1);
+  overflow: hidden;
+  --web-view-name: Log in;
+  --web-view-id: Log_in;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+.log_in_Class {
+  position: absolute;
+  width: 632px;
+  height: 708px;
+  left: 816px;
+  top: 132px;
+  overflow: visible;
+}
+.Forgot_your_password_Class {
+  left: 250px;
+  top: 660px;
+  position: absolute;
+  overflow: visible;
+  width: 383px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(26, 26, 46, 1);
+}
+.Sign_up_Class {
+  left: 0px;
+  top: 660px;
+  position: absolute;
+  overflow: visible;
+  width: 129px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(0, 0, 0, 1);
+}
+.Log_in_button_Class {
+  position: absolute;
+  width: 299px;
+  height: 79px;
+  left: 154px;
+  top: 536px;
+  overflow: visible;
+}
+.Rectangle_14_p_Class {
+  fill: url(#Rectangle_14_p);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_14_p {
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 317px;
+  height: 97px;
+  left: 0px;
+  top: 0px;
+}
+.Log_in_q_Class {
+  left: 87px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 125px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  color: rgba(247, 247, 247, 1);
+}
+.Password_Class {
+  position: absolute;
+  width: 606px;
+  height: 96px;
+  left: 0px;
+  top: 387px;
+  overflow: visible;
+}
+.Rectangle_7_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(22, 33, 62, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_7 {
+  filter: drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 624px;
+  height: 114px;
+  left: 0px;
+  top: 9px;
+}
+.Password_t_Class {
+  left: 39px;
+  top: 25px;
+  position: absolute;
+  overflow: visible;
+  width: 161px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 39px;
+  color: rgba(0, 0, 0, 1);
+}
+.Username_Class {
+  position: absolute;
+  width: 606px;
+  height: 96px;
+  left: 0px;
+  top: 226px;
+  overflow: visible;
+}
+.Rectangle_6_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(22, 33, 62, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Rectangle_6 {
+  filter: drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 624px;
+  height: 114px;
+  left: 0px;
+  top: 9px;
+}
+.Username_w_Class {
+  left: 39px;
+  top: 25px;
+  position: absolute;
+  overflow: visible;
+  width: 169px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 39px;
+  color: rgba(0, 0, 0, 1);
+}
+.Line_below_log_in_Class {
+  fill: transparent;
+  stroke: rgba(233, 69, 96, 1);
+  stroke-width: 4px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_below_log_in {
+  overflow: visible;
+  position: absolute;
+  width: 360px;
+  height: 4px;
+  transform: translate(-816px, -132px) matrix(1, 0, 0, 1, 939, 230.5)
+    rotate(-0.75deg);
+  transform-origin: center;
+  left: 0px;
+  top: 0px;
+}
+.Log_in_y_Class {
+  left: 209px;
+  top: 0px;
+  position: absolute;
+  overflow: visible;
+  width: 189px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  color: rgba(15, 52, 96, 1);
+}
+.Wave_Class {
+  opacity: 0.458;
+  fill: rgba(233, 69, 96, 1);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Wave {
+  overflow: visible;
+  position: absolute;
+  width: 516.175px;
+  height: 433.434px;
+  left: 1404.353px;
+  top: 0px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textured_picture_Class {
+  position: absolute;
+  width: 720px;
+  height: 1080px;
+  left: -381px;
+  top: 0px;
+  overflow: visible;
+}
+.Mi_Logo_Class {
+  position: absolute;
+  width: 181px;
+  height: 95px;
+  left: 381px;
+  top: 37px;
+  overflow: visible;
+}
+a,
+a:visited {
+  color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+}
+input {
+  width: 500px;
+  height: 65px;
+  font-weight: lighter;
+  font-size: 30px;
+  color: rgba(0, 0, 0, 1);
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 39px;
+  color: rgba(0, 0, 0, 1);
+}
+*:focus {
+  outline: none;
+}
+.input-group__input {
+  font-family: "gilroylight";
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 30px;
+}

@@ -1,0 +1,623 @@
+.mediaViewInfo {
+  --web-view-name: Landing Page-2;
+  --web-view-id: Landing_Page-2;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+:root {
+  --web-view-ids: Landing_Page-2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+}
+.Landing_Page-2_Class {
+  position: absolute;
+  width: 1920px;
+  height: 4038px;
+  background-color: rgba(247, 247, 247, 1);
+  overflow: hidden;
+  --web-view-name: Landing Page-2;
+  --web-view-id: Landing_Page-2;
+  --web-scale-to-fit: true;
+  --web-scale-to-fit-type: width;
+  --web-scale-on-resize: true;
+  --web-refresh-for-changes: true;
+  --web-application: true;
+  --web-enable-deep-linking: true;
+}
+.Specifications_Class {
+  position: absolute;
+  width: 1920px;
+  height: 1615px;
+  left: 0px;
+  top: 2429px;
+  overflow: visible;
+}
+.Rectangle_29_Class {
+  opacity: 0.173;
+  fill: rgba(15, 52, 96, 1);
+}
+.Rectangle_29 {
+  position: absolute;
+  overflow: visible;
+  width: 1920px;
+  height: 1615px;
+  left: 0px;
+  top: 0px;
+}
+.Q310115000198C09_-2016-03_Class {
+  left: 1445px;
+  top: 913px;
+  position: absolute;
+  overflow: visible;
+  width: 383px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Standard_implemented__Class {
+  left: 994px;
+  top: 889px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Android_44_or__IOS_90_and__abo_Class {
+  left: 1445px;
+  top: 697px;
+  position: absolute;
+  overflow: visible;
+  width: 259px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Supported_systems_Class {
+  left: 999px;
+  top: 713px;
+  position: absolute;
+  overflow: visible;
+  width: 350px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.ID130_Class {
+  left: 1445px;
+  top: 579px;
+  position: absolute;
+  overflow: visible;
+  width: 84px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Lens_angle_Class {
+  left: 994px;
+  top: 587px;
+  position: absolute;
+  overflow: visible;
+  width: 195px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.ID5_V__1A_Class {
+  left: 1445px;
+  top: 461px;
+  position: absolute;
+  overflow: visible;
+  width: 152px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Power_input_Class {
+  left: 990px;
+  top: 462px;
+  position: absolute;
+  overflow: visible;
+  width: 216px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.ID269g_Class {
+  left: 1445px;
+  top: 343px;
+  position: absolute;
+  overflow: visible;
+  width: 90px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Product_net_weight_Class {
+  left: 990px;
+  top: 337px;
+  position: absolute;
+  overflow: visible;
+  width: 340px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+._WIFI_IEEE80211bgn__24_GHz_Class {
+  left: 592px;
+  top: 1288px;
+  position: absolute;
+  overflow: visible;
+  width: 394px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Wireless__Connection_Class {
+  left: 99px;
+  top: 1336px;
+  position: absolute;
+  overflow: visible;
+  width: 207px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.microSD_card__supports_memory__Class {
+  left: 592px;
+  top: 863px;
+  position: absolute;
+  overflow: visible;
+  width: 357px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Storage_Class {
+  left: 107px;
+  top: 861px;
+  position: absolute;
+  overflow: visible;
+  width: 142px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.ID1080p_Class {
+  left: 592px;
+  top: 736px;
+  position: absolute;
+  overflow: visible;
+  width: 113px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Resolution_Class {
+  left: 107px;
+  top: 744px;
+  position: absolute;
+  overflow: visible;
+  width: 191px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.-10c_to_40C_Class {
+}
+.Operating_temperature_Class {
+  left: 99px;
+  top: 579px;
+  position: absolute;
+  overflow: visible;
+  width: 218px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+._SJX27YL____Class {
+  left: 565px;
+  top: 460px;
+  position: absolute;
+  overflow: visible;
+  width: 205px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Product_model_no_Class {
+  left: 99px;
+  top: 462px;
+  position: absolute;
+  overflow: visible;
+  width: 333px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Mi_Home_Security__Camera_Basic_Class {
+  left: 592px;
+  top: 336px;
+  position: absolute;
+  overflow: visible;
+  width: 318px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Product_name__________Class {
+  left: 55px;
+  top: 345px;
+  position: absolute;
+  overflow: visible;
+  width: 353px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  color: rgba(15, 52, 96, 1);
+}
+.Line_below_specifications_Class {
+  fill: transparent;
+  stroke: rgba(233, 69, 96, 1);
+  stroke-width: 4px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_below_specifications {
+  overflow: visible;
+  position: absolute;
+  width: 737.027px;
+  height: 9px;
+  left: 591.5px;
+  top: 183px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Specifications__Class {
+  left: 770px;
+  top: 81px;
+  position: absolute;
+  overflow: visible;
+  width: 381px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 58px;
+  color: rgba(15, 52, 96, 1);
+}
+.Shop_Class {
+  position: absolute;
+  width: 1297px;
+  height: 1170px;
+  left: 351px;
+  top: 1147px;
+  overflow: visible;
+}
+.Add_to_cart_button_bc_Class {
+  fill: url(#Add_to_cart_button_bc);
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Add_to_cart_button_bc {
+  position: absolute;
+  overflow: visible;
+  width: 433px;
+  height: 118px;
+  left: 393px;
+  top: 1052px;
+}
+.ADD_TO_CART_Class {
+  left: 473px;
+  top: 1087px;
+  position: absolute;
+  overflow: visible;
+  width: 275px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(247, 247, 247, 1);
+}
+._1799_Class {
+  left: 500px;
+  top: 866px;
+  position: absolute;
+  overflow: visible;
+  width: 219px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 66px;
+  color: rgba(233, 69, 96, 1);
+}
+.Mi_Home_Security_Camera_Basic__Class {
+  left: 0px;
+  top: 738px;
+  position: absolute;
+  overflow: visible;
+  width: 1298px;
+  white-space: nowrap;
+  text-align: left;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 70px;
+  color: rgba(15, 52, 96, 1);
+}
+.Line_13_Class {
+  fill: transparent;
+  stroke: rgba(22, 33, 62, 1);
+  stroke-width: 7px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_13 {
+  overflow: visible;
+  position: absolute;
+  width: 91.706px;
+  height: 84.183px;
+  left: 0px;
+  top: 261.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Line_14_Class {
+  fill: transparent;
+  stroke: rgba(22, 33, 62, 1);
+  stroke-width: 7px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_14 {
+  overflow: visible;
+  position: absolute;
+  width: 91.388px;
+  height: 75.454px;
+  left: 0px;
+  top: 335.5px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Mi_Home_Security_Camera_Basic_Class {
+  filter: drop-shadow(5px 6px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  width: 662px;
+  height: 662px;
+  left: 278px;
+  top: 0px;
+  overflow: visible;
+}
+.Screenshot_2021-02-18_at_11105_Class {
+  position: absolute;
+  width: 1920px;
+  height: 897px;
+  left: 0px;
+  top: 180px;
+  overflow: visible;
+}
+.Nav_Bar_Class {
+  position: absolute;
+  width: 1869.952px;
+  height: 95px;
+  left: 13.048px;
+  top: 55px;
+  overflow: visible;
+}
+.shopping-cart_Class {
+  position: absolute;
+  width: 86px;
+  height: 66px;
+  left: 1783.952px;
+  top: 8px;
+  overflow: visible;
+}
+.Sign_up_Class {
+  left: 1616.952px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 153px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 43px;
+  color: rgba(233, 69, 96, 1);
+}
+.Line_2_Class {
+  fill: transparent;
+  stroke: rgba(0, 0, 0, 1);
+  stroke-width: 2px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Line_2 {
+  overflow: visible;
+  position: absolute;
+  width: 2px;
+  height: 56px;
+  left: 1601.952px;
+  top: 13px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Log_in_Class {
+  left: 1464.952px;
+  top: 12px;
+  position: absolute;
+  overflow: visible;
+  width: 123px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 43px;
+  color: rgba(233, 69, 96, 1);
+}
+.Search_Bar_Class {
+  fill: rgba(255, 255, 255, 1);
+  stroke: rgba(15, 52, 96, 1);
+  stroke-width: 3px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto;
+}
+.Search_Bar {
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.161));
+  position: absolute;
+  overflow: visible;
+  width: 1259px;
+  height: 98px;
+  left: 180.952px;
+  top: 0px;
+}
+.Search_Icon_Class {
+  fill: rgba(0, 0, 0, 1);
+}
+.Search_Icon {
+  overflow: visible;
+  position: absolute;
+  width: 50.491px;
+  height: 50.49px;
+  left: 1342.963px;
+  top: 15.255px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.Search_the_entire_store_here_Class {
+  left: 206.952px;
+  top: 19px;
+  position: absolute;
+  overflow: visible;
+  width: 447px;
+  white-space: nowrap;
+  text-align: center;
+  font-family: Helvetica Neue;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  color: rgba(80, 79, 79, 1);
+}
+.Mi_Logo_Class {
+  position: absolute;
+  width: 180.952px;
+  height: 95px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.bgvideo {
+}
+a,
+a:visited {
+  color: rgba(233, 69, 96, 1);
+  text-decoration: none;
+}
